@@ -1,4 +1,3 @@
-# Text-to-CAD-prototype
 # Generative CAD Engine: Text‑to‑3D
 
 **Turn natural language into editable, parametric 3D CAD models.**
